@@ -13,6 +13,7 @@ function App() {
       <Header></Header>
      <main className='flex justify-between items-center mx-14 p-5'>
      <Blogs></Blogs>
+    
      <Bookmarks></Bookmarks>
      </main>
      
